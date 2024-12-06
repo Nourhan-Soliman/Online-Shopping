@@ -1,0 +1,1 @@
+export const Base = "https://e-commerce-app-production-97d2.up.railway.app/api";
